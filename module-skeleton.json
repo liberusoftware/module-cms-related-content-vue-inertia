@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-related-content-vue-inertia",
+  "capabilityKey": "liberusoftware/module-cms-related-content",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-cms-related-content-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/cms/nextjs/related-content.md",
+  "presentationPlan": "projects/cms/vue/related-content.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
